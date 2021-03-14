@@ -20,6 +20,18 @@ jobs:
         CONFIG: linux_64_nodejs15
         UPLOAD_PACKAGES: 'True'
         DOCKER_IMAGE: quay.io/condaforge/linux-anvil-cos7-cuda:10.2
+      linux_ppc64le_nodejs12:
+        CONFIG: linux_ppc64le_nodejs12
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-ppc64le
+      linux_ppc64le_nodejs14:
+        CONFIG: linux_ppc64le_nodejs14
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-ppc64le
+      linux_ppc64le_nodejs15:
+        CONFIG: linux_ppc64le_nodejs15
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-ppc64le
   timeoutInMinutes: 360
 
   steps:

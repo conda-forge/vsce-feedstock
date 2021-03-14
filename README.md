@@ -13,7 +13,14 @@ Current build status
 ====================
 
 
-<table>
+<table><tr>
+    <td>Drone</td>
+    <td>
+      <a href="https://cloud.drone.io/conda-forge/vsce-feedstock">
+        <img alt="linux" src="https://img.shields.io/drone/build/conda-forge/vsce-feedstock/master.svg?label=Linux">
+      </a>
+    </td>
+  </tr>
     
   <tr>
     <td>Azure</td>
@@ -45,6 +52,48 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=master">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=master&jobName=linux&configuration=linux_64_nodejs15" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_nodejs12</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_nodejs12" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_nodejs14</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_nodejs14" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_nodejs15</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_nodejs15" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_nodejs12</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_nodejs12" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_nodejs14</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_nodejs14" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_nodejs15</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_nodejs15" alt="variant">
                 </a>
               </td>
             </tr><tr>
