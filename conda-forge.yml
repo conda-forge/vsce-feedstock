@@ -4,3 +4,5 @@ provider:
   linux_ppc64le: azure
 os_version:
   linux_64: cos7
+bot:
+  automerge: true
