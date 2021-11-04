@@ -23,6 +23,7 @@ requirements:
   host:
     - nodejs
     - yarn
+    - glib                   # [ppc64le]
     - libsecret              # [ppc64le]
   run:
     - nodejs
