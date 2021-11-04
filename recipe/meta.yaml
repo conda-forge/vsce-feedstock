@@ -11,14 +11,18 @@ source:
 
 build:
   number: 0
-  skip: true  # [win]
+  skip: true  # [win or nodejs == "12"]
 
 requirements:
   build:
     - sysroot_linux-64 2.17  # [linux64]
+    - {{ compiler('c') }}
+    - pkg-config
+    - make
   host:
     - nodejs
     - yarn
+    - libsecret
   run:
     - nodejs
 
