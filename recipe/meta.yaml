@@ -1,5 +1,5 @@
 {% set name = "vsce" %}
-{% set version = "1.103.1" %}
+{% set version = "2.1.0" %}
 
 package:
   name: {{ name }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/{{ name }}/-/{{ name }}-{{ version }}.tgz
-  sha256: 7d685472d97b71fc143977d7ba0926bef695c7f7286d10bd780f40fee0af238a
+  sha256: 7ca80c7e117973ca4ca6b4bb0894de6d8b76bfa5758aa2a93de206a263159f6d
 
 build:
   number: 0
