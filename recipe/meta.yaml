@@ -22,7 +22,7 @@ requirements:
     - make                   # [ppc64le]
   host:
     - nodejs
-    - yarn
+    - yarn <2
     - glib                   # [ppc64le]
     - libsecret              # [ppc64le]
   run:
