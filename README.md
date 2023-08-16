@@ -1,11 +1,11 @@
-About vsce
-==========
+About vsce-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/vsce-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/microsoft/vscode-vsce
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/vsce-feedstock/blob/main/LICENSE.txt)
 
 Summary: VS Code Extension Manager
 
@@ -34,45 +34,45 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_nodejs14</td>
+              <td>linux_64_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_nodejs14" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_nodejs18" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_nodejs16</td>
+              <td>linux_64_nodejs20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_nodejs20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_nodejs14</td>
+              <td>linux_aarch64_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_nodejs14" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_nodejs18" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_nodejs16</td>
+              <td>linux_aarch64_nodejs20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_nodejs20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_nodejs14</td>
+              <td>osx_64_nodejs18</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_nodejs14" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_nodejs18" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_nodejs16</td>
+              <td>osx_64_nodejs20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12135&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_nodejs16" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vsce-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_nodejs20" alt="variant">
                 </a>
               </td>
             </tr>
